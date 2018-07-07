@@ -23,18 +23,20 @@ From project directory, run
 ```
 pip install -r requirements.txt
 ```
-to run the api locally:
+
+To run locally
 ```
 python main.py
 ```
-## Running the tests
+
+### Running the tests
 
 run
 ```
 pytest tests.py
 ```
 
-## Build using docker
+### Build using docker
 ```
 ./init.sh
 cd work_dir

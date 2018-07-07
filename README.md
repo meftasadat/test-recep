@@ -10,7 +10,7 @@ What things you need to install the software and how to install them
 
 to run locally
 ```
-python >= 2.7
+python >= 3.5
 docker
 ```
 
